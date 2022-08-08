@@ -1,0 +1,32 @@
+h1{
+    font-size: 100px;
+    color:rgba(180, 34, 42, 0.466);
+    display: flex;
+    justify-content: center;
+    
+  
+  }
+  ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      background-color: #dddddd;
+      overflow: hidden;
+      
+      
+  
+  
+    }
+    li {
+      
+      float: left;
+    }
+    li , a {
+      display: block;
+      padding: 8px;
+      background-color: #dddddd;
+  
+    }
+    li a:hover {
+      background-color: rgba(17, 17, 17, 0.466);
+    }
